@@ -1,3 +1,3 @@
-def my_function(name):
+def test_my_function(name):
 	message = "Hello from " + name
 	return message
