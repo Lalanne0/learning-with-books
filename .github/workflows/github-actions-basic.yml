@@ -32,4 +32,4 @@ jobs:
 
       - name: Test with pytest
         run: pytest
-        working-directory: Chapter02
+        working-directory: folder_01
