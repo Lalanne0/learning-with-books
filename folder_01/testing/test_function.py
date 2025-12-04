@@ -1,3 +1,2 @@
-def test_my_function(name):
-	message = "Hello from " + name
-	return message
+def test_my_function():
+	pass
